@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "385 Playground Challenge",
+"dataUrl": "Unity-Playground-Challenge.data.unityweb",
+"asmCodeUrl": "Unity-Playground-Challenge.asm.code.unityweb",
+"asmMemoryUrl": "Unity-Playground-Challenge.asm.memory.unityweb",
+"asmFrameworkUrl": "Unity-Playground-Challenge.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

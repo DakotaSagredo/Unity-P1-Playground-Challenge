@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\P1MarbleController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\P1MarbleController.cs" Line="17" Column="31" />
+      <File FileName="Assets\Scripts\P1CameraMotor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\P2MarbleController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\P2CameraMotor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Respawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TimerP1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EndTrigger.cs" Line="20" Column="28" />
+      <File FileName="Assets\Scripts\AttachPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EndLevel2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Addpoints.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
